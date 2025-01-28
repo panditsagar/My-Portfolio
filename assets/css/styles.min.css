@@ -66,6 +66,7 @@ html[data-theme="light"] {
   transition: 0.8s ease-out;
   position: relative;
   margin-top: 2em;
+  margin-left: 110px;
   z-index: 10;
   transform: translateX(-75%);
 }
@@ -389,6 +390,7 @@ section {
   .footer-links:nth-child(1) {
     margin-right: 5em !important;
   }
+
   .more-about-content {
     flex-direction: column;
     flex-wrap: wrap;
@@ -398,7 +400,7 @@ section {
     width: 100% !important;
     margin: 2rem auto;
   }
- 
+
   .cursor-effect {
     display: none;
   }
@@ -531,6 +533,7 @@ section {
 .about {
   margin-top: 13rem;
   padding: 2rem 6rem;
+  margin-top: 5rem;
   position: relative;
 }
 .about .container {
@@ -553,7 +556,6 @@ section {
   margin-right: 2.5rem;
   z-index: 100;
   position: relative;
- 
 }
 .about .container .profile-img img {
   width: 510px;
@@ -614,7 +616,6 @@ section {
 }
 .contact {
   background: var(--bg);
-  padding-top: 4rem;
 }
 .contact-title {
   display: flex;
@@ -752,6 +753,8 @@ header .landing-text p {
 .project {
   grid-column: 2/14;
   padding: 6rem;
+  padding-bottom: 0;
+  padding-top: 0;
 }
 .project h5 {
   text-transform: uppercase;
@@ -901,7 +904,9 @@ header .landing-text p {
 .services {
   margin-top: 6rem;
   padding: 6rem 3.5rem;
+  padding-bottom: 0;
   background: var(--bg);
+  margin-top: 0;
 }
 .services .services-content {
   text-align: center;

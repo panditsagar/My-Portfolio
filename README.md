@@ -1,15 +1,26 @@
-# premier-portfolio
+# My Portfolio
 
-That's "First portfolio" in French ✨
+This is **My Portfolio** designed using **HTML**, **CSS (SCSS)**, **JavaScript**, and **GSAP**. This portfolio showcases my skills, projects, and contact information with a modern design and interactive animations.
 
-## Screenshot 📸
+## Features
 
-![Israel Mitolu portfolio screenshot](./assets/img/seo-img.png)
+- **Modern Design**: Clean and professional layout to highlight your expertise.
+- **Interactive Animations**: Smooth and engaging animations powered by **GSAP**.
+- **Responsive Design**: Optimized for viewing on desktops, tablets, and mobile devices.
+- **Dynamic Content**: JavaScript is used to add interactivity and enhance the user experience.
 
-## Live Site 🚀
+## Tech Stack
 
-[Preview the website here](https://israelmitolu.netlify.app).
+- **HTML**: Structure of the website.
+- **CSS (SCSS)**: Styling and animations with modular and maintainable code.
+- **JavaScript**: Interactivity and logic for dynamic user experience.
+- **GSAP (GreenSock Animation Platform)**: Advanced animations for smooth transitions and effects.
 
-## Tools 🔨
+## Live Demo
 
-Built using HTML, CSS(SCSS), Javascript and GSAP
+Check out the live version of the portfolio: [My Portfolio](https://panditsagar.github.io/My-Portfolio)
+
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](assets/img/HomePage.png)

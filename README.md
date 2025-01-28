@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is a **My Portfolio ** designed using **HTML**, **CSS (SCSS)**, **JavaScript**, and **GSAP**. This portfolio showcases my skills, projects, and contact information with a modern design and interactive animations.
+This is a **My Portfolio** designed using **HTML**, **CSS (SCSS)**, **JavaScript**, and **GSAP**. This portfolio showcases my skills, projects, and contact information with a modern design and interactive animations.
 
 ## Features
 

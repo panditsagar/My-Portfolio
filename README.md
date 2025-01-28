@@ -23,4 +23,4 @@ Check out the live version of the portfolio: [My Portfolio](https://panditsagar.
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](assets/img/)
+![Homepage Screenshot](assets/img/Screenshot 2025-01-28 230247.png)

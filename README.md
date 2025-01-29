@@ -18,7 +18,7 @@ This is **My Portfolio** designed using **HTML**, **CSS (SCSS)**, **JavaScript**
 
 ## Live Demo
 
-Check out the live version of the portfolio: [My Portfolio](https://panditsagar.github.io/My-Portfolio)
+Check out the live version of the portfolio: [My Portfolio](https://panditsagar.github.io/My-Portfolio/)
 
 ## Screenshots
 

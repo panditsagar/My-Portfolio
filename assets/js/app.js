@@ -117,3 +117,5 @@ let trans = () => {
     document.documentElement.classList.remove("transition");
   }, 1200);
 };
+
+document.getElementById("year").textContent = new Date().getFullYear();

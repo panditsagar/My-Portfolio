@@ -1044,6 +1044,7 @@ header .landing-text p {
   width: 40%;
   height: auto;
   padding: 0 15px;
+   margin-left: 80px;
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
@@ -1172,3 +1173,7 @@ header .landing-text p {
 .tab-content.active {
   display: block;
 } /*# sourceMappingURL=styles.min.css.map */
+
+.timeline-item h5{
+  font-size: 0.9rem;
+}
